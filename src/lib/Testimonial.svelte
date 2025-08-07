@@ -39,18 +39,11 @@
 
 </style>
 
-<!--
-Padding (px)
-Left:   30
-Right:  35
-Top:    30
-Bottom: 35
--->
 
 <div class="
           min-h-[275px] min-w-0 w-full max-w-full sm:min-w-[250px] sm:max-w-[545px]
           {bgColorMap[cardColor]} {txtColorMap[cardText]}
-          rounded-xl shadow-lg shadow-gray-400 p-7.5
+          rounded-xl shadow-[24px_24px_24px_rgba(0,0,0,0.20)] p-7.5
           text-left relative z-10 h-full"
 >
   <!--  TODO: Find way to align image with the two lines of text properly -->
