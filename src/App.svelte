@@ -1,7 +1,4 @@
 <script>
-  import svelteLogo from './assets/svelte.svg'
-  import viteLogo from '/vite.svg'
-  import Counter from './lib/Counter.svelte'
   import Testimonial from "./lib/Testimonial.svelte";
 </script>
 
